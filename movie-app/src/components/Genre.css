@@ -1,0 +1,21 @@
+.infoAndImg {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 200px;
+  height: 500px;
+}
+
+.movieInfo {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  align-items: left;
+  justify-content: center;
+  justify-items: center;
+}
+
+p {
+  font-size: 20px;
+  font-weight: bolder;
+}
